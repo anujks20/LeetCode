@@ -13,6 +13,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anujks20/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anujks20/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/anujks20/LeetCode/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/anujks20/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,6 +25,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anujks20/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anujks20/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/anujks20/LeetCode/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/anujks20/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,6 +36,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0015-3sum](https://github.com/anujks20/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anujks20/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/anujks20/LeetCode/tree/master/0075-sort-colors) |
+| [0905-sort-array-by-parity](https://github.com/anujks20/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Quicksort
 |  |
 | ------- |
